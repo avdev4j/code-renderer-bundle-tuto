@@ -1,0 +1,11 @@
+code: code-renderer
+description: Code renderer bundle
+components:
+  fragments:
+    - fragments/prismjs_cdn_inclusions-descriptor.yaml
+  pageModels:
+    - pageModels/content_page_with_code-descriptor.yaml
+  contents:
+    - contents/nws001-descriptor.yaml
+  pages:
+    - pages/blog_details-descriptor.yaml
